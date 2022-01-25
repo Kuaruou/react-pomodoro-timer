@@ -2,6 +2,8 @@
 
 ### [[網站連結]](https://kuaruou.github.io/react-pomodoro-timer/) ###
 
+### A practice of React source from https://github.com/dejwid/react-pomodoro-timer
+
 ### `npm start`
 
 Runs the app in the development mode.\
